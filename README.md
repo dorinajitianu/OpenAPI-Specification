@@ -1,4 +1,4 @@
-# OpenAPI Initiative Registry
+# OpenAPI Initiative Registry1
 
 This site contains the OpenAPI Initiative Registry and content for the HTML versions of the OpenAPI Specification.
 
